@@ -1,4 +1,5 @@
-Information Retrieval Repository
+**Information Retrieval Repository**
+
 Welcome to the Information Retrieval repository! This collection of scripts is designed to empower you with powerful conventional and neural models for extracting valuable information from large commonsense corpuses. Whether you're working on natural language processing tasks, question-answering systems, or any application that requires efficient information retrieval, this repository has you covered.
 
 Key Features
